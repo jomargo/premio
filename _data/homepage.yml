@@ -1,16 +1,16 @@
 hero:
   image: "https://farm8.staticflickr.com/7292/16385243101_b2028f9f5a_o.jpg"
   heading: "Android Junior Developer Course"
-  subtitle: "All you need to know to start working as an Android Developer. No prior nowledge required."
+  subtitle: "All you need to know to start working as an Android Developer. No prior knowledge required."
 
 testimonial:
-  quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
+  quote: "An Spanish engineer, Marc Albero Chacon has been dealing with programming for more than 12 years now. His humble beginnnings with assembler at college, and afterwards with Matlab as a Telecommunications Engineer, gave way to deeper insights at bare-metal level while programming for years on end in C/C++ for Linux/FLOSS environments, at a local R+D facility in Valencia (Spain). In the last years, while still working as a researcher, and feeling himself hopelessly obsesed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Recovered from the crash, and with sound knowledge under his belt, he undertakes now en even more demanding enterprise: to try ant teach Android to everyone and their dog."
+  person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
   image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
 
 testimonial2:
   quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
+  person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
   image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
 
 about:
