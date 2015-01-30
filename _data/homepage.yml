@@ -6,7 +6,7 @@ hero:
 testimonial:
   quote: "An Spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsesed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
   person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
-  image: "/images/Marc.jpg"
+  image: "images/Marc.jpg"
 
 testimonial2:
   quote: "description"
