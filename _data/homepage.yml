@@ -4,14 +4,14 @@ hero:
   subtitle: "All you need to know to start working as an Android Developer. No prior knowledge required."
 
 testimonial:
-  quote: "An Spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments, at a R+D facility in Valencia (Spain). In the last years, obsesed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
+  quote: "An Spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsesed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
   person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  image: "/images/Marc.jpg"
 
 testimonial2:
-  quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
+  quote: "description"
   person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  image: "images/Jose.jpg
 
 about:
   title: "About the Course"
