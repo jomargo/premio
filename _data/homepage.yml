@@ -11,7 +11,7 @@ testimonial:
 testimonial2:
   quote: "description"
   person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
-  image: "images/Jose.jpg
+  image: "images/Jose.jpg"
 
 about:
   title: "About the Course"
