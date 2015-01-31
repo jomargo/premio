@@ -4,12 +4,12 @@ hero:
   subtitle: "All you need to know to start working as an Android Developer. No prior knowledge required."
 
 testimonial:
-  quote: "An Spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsesed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
+  quote: "An Spanish engineer, Marc Albero has been dealing with programming for more than 12 years now. He started with assembler at college, and spent years programming in C/C++ for Linux/FLOSS environments. In the last years, obsessed by the brave new world of mobile devices, he decided to branch into the highly dynamic programming environments for tablets and smartphones. Now, with sound knowledge under his belt, he undertakes an even more demanding enterprise: to try ant teach Android to everyone and their dog."
   person: "<strong>Marc Albero Chacón</strong>, <em>Android Developer Jedi</a></em>"
   image: "images/Marc.jpg"
 
 testimonial2:
-  quote: "Another spaniard engineer, José Manuel Martínez has been in e-learnig for more than 8 years. He worked in cutting-edge technology for MOOC production, and collaborating at a spanish university in the setup of it's MOOCs platform (UPV is now one of the 5 universities with more courses on EdX). On these years José has learnt very well what it takes to make an outstanding online course: engaging, practical and funny. Ready to deliver tons of value to its learning community."
+  quote: "Another Spanish engineer, José Manuel Martínez has been in e-learning for more than 8 years. He worked in cutting-edge technology design for MOOC production, and collaborated in the MOOCs platform setup for a spanish university, UPV, that is now one of the 5 universities with more courses on EdX. On these years José has learnt very well what it takes to make an outstanding online course: engaging, practical and funny. Ready to deliver tons of value to its learning community."
   person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
   image: "images/Jose.jpg"
 
