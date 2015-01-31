@@ -9,7 +9,7 @@ testimonial:
   image: "images/Marc.jpg"
 
 testimonial2:
-  quote: "description"
+  quote: "Another spaniard engineer, José Manuel Martínez has been in e-learnig for more than 8 years. He worked in cutting-edge technology for MOOC production, and collaborating at a spanish university in the setup of it's MOOCs platform (UPV is now one of the 5 universities with more courses on EdX). On these years José has learnt very well what it takes to make an outstanding online course: engaging, practical and funny. Ready to deliver tons of value to its learning community."
   person: "<strong>José Manuel</strong>, <em>Founder at Online School, Mindic.com</a></em>"
   image: "images/Jose.jpg"
 
