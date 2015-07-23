@@ -1,20 +1,19 @@
 hero:
-  image: "https://farm4.staticflickr.com/3801/19272125133_1890362a23_b.jpg"
-  heading: "Aprender a salvar vidas tiene premio. Inscríbete gratis y consigue este pulsioxímetro"
-  subtitle: "Curso MOOC de Reanimación Cardiopulmonar (RCP)"
-  subimage: "https://farm1.staticflickr.com/478/18071300749_b60079ec21_b.jpg"
+  image: "https://c4.staticflickr.com/8/7785/17389834920_9014686aa3_z.jpg"
+  heading: "Curso MOOC de Reanimación Cardiopulmonar (RCP)"
+  subtitle: "Soporte Vital Básico y Avanzado en el adulto para profesionales sanitarios"
 
 testimonial:
-  quote: "<strong>Inscríbete</strong> en el curso de RCP para personal sanitario y consigue este pulsioxímetro de dedo. ¡Todo completamente <strong>gratis</strong>! Y es que aprender a salvar vidas merece un premio. Mejor dicho, merece <strong>6 premios</strong>, porque te vamos a dar <strong>6 pulsioxímetros</strong>, uno para tí, y 5 más para que los repartas a 5 amigos y compañeros"
-  person: "<strong>Consigue ahora estos 6 pulsioxímetros<strong>"
-  image: "images/pulsi.jpg"
+  quote: "Doctor en Medicina y Cirugía y especialista en Anestesiología, Reanimación y Terapéutica del Dolor, Enrique ha realizado numerosas estancias de investigación y formación en diferentes unidades de toda España, tocando diversos temas como el manejo de la vía aérea, la hemofiltración y el tratamiento del dolor y los cuidados críticos. Ha colaborado en numerosos cursos y congresos, desarrolla una intensa actividad científica e investigadora, y tiene una especial pasión por la docencia médica"
+  person: "<strong>Enrique</strong>, <em>Médico especialista en Anestesiología y Reanimación</a></em>"
+  image: "images/Quique.jpg"
 
 
 about:
-  title: "¿Qué tengo que hacer para participar?"
-  first_paragraph: "<p><strong>1.</strong> Inscríbete en el curso online de RCP, <strong>¡es gratis!</strong></p>  <p><strong>2.</strong> Pide a <strong>5 amigos</strong> que se inscriban en el curso online de RCP</p>  <p><strong>3.</strong> Rellena el formulario de esta página con los mails de tus 5 amigos</p>  <p><strong>4.</strong>Tienes que cursar, al menos, el 50% de las clases del curso de RCP</p>  <p><strong>5.</strong>Tus amigos tienen que cursar, al menos, el 10% de las clases del curso de RCP</p></ol><p>Cuando alcancemos los <strong>5.000</strong> inscritos en el curso realizaremos el sorteo. Si resultas ganador, te enviaremos los 6 pulsioxímetros. Uno para tí, y uno para cada uno de tus 5 amigos y compañeros</p>"
-  second_paragraph: ""
-  call_to_action: "Apúntate gratis en el sorteo"
+  title: "Sobre el Curso"
+  first_paragraph: "<p> Una parada cardiorespiratoria es una situación tremendamente estresante, incluso para los profesionales. Cada segundo que pasa disminuyen las posibilidades de supervivencia de la víctima, y saber exactamente lo que hay que hacer es imprescindible para no perder un tiempo muy valioso.</p><p>En este curso MOOC aprenderás todas las maniobras y técnicas de <strong>Soporte Vital</strong>, tanto a nivel <strong>Básico</strong> como a nivel <strong>Avanzado</strong> (medicalizado). Todo ello según las guías y recomendaciones de la <strong>European Resucitation Council</strong> y la <strong>American Heart Association</strong>.</p><p>A lo largo de más de 20 videotutoriales aprenderás en detalle todos los aspectos más importantes de la reanimación cardiopulmonar de una forma visual y amena.</p><p>También podrás acceder a una gran comunidad de aprendizaje, donde podrás debatir con otros profesionales como tú y con los profesores del curso para solucionar todas tus dudas.</p>"
+  second_paragraph: "<p>Además podrás acceder a todo esto de forma gratuita. ¿Qué más se puede pedir?</p><p>Empieza a aprender ahora y actualiza tus conocimientos en las maniobras médicas de reanimación cardiopulmonar.</p>"
+  call_to_action: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
   link_to_enrollment_page: "http://www.paywithatweet.com/pay?id=ff46b48b-890c-4514-9302-47a83cf82aee"
 
 learn:
@@ -24,7 +23,7 @@ learn:
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/idea.png"
       title: "Have a Killer Idea"
       description: "How to find a great course idea and evaluate its potential for success before developing any content"
- https://c1.staticflickr.com/1/405/19915894262_aae0affcb3_c.jpg   - number: "2"
+    - number: "2"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/research.png"
       title: "Research, Script Writing "
       description: "Research and script writing techniques that will save you countless hours of production time"
@@ -46,26 +45,26 @@ learn:
       description: "Ensuring ridiculously happy students that will tell others about your course and how to create a future digital product pipeline"
 
 signup:
-  title: "¡Rellena el formulario y participa en el sorteo!"
-  button: "Apúntate gratis en el sorteo"
+  title: "Salvar vidas es importante. Empieza a aprender ahora"
+  button: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
 
 signup_2:
-  title: "¿Ya has rellenado el formulario? Ahora apúntate al curso, si no lo has hecho ya."
-  button: "Inscríbete gratis en el curso de RCP a cambio de compartirlo"
+  title: "Salvar vidas es importante. Empieza a aprender ahora"
+  button: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
 
 faq:
   title: "Preguntas Frecuentes"
   qa:
-    - question: "¿Tengo que inscribirme en el curso de RCP para participar en el sorteo? ¿Y mis amigos tienen que inscribirse?"
-      answer: "No sólo tienes que inscribirte, si quieres poder ganar tienes que cursar más de un 50% de las clases, y tus amigos más de un 10%. ¿Te parece egoísta? Es por el bien de tus pacientes. Cuanto más sepas, mejor los podrás tratar. Recuerda que eres un profesional sanitario por una razón. ¡Ah! Y no te olvides de rellenar el formulario del sorteo. Tampoco es tanto trabajo."
-    - question: "¿Cuánto cuesta este curso?"
-      answer: "Este curso es <strong>gratuito</strong>, ¿no lo habíamos dicho ya? No cuesta nada. No tienes que pagar nada ni hacer nada. No te pediremos ninguna tarjeta de crédito. Sólo tiene un coste para aquellos que deseen realizar un examen y obtener un certificado de realización del curso. Si esto no te interesa, no tienes que pagar nada. Si más adelante cambias de opinión y quieres pedir el certificado, puedes pagarlo y realizar el examen para obtenerlo. No hace falta que repitas el curso."
-    - question: "Vale, ¿cómo me inscribo al curso?"
-      answer: "Ves a la página del curso de RCP en MoocRCP.org o en el botón verde de abajo, crea una cuenta en la plataforma y listo."
     - question: "¿Dónde se realiza este curso? ¿Cuándo empieza?"
       answer: "Este curso es completamente online, y ya está abierto, puedes empezar ahora mismo. No tiene fecha de finalización, por lo que podrás entrar al curso cuando quieras y realizarlo a tu propio ritmo."
+    - question: "¿Cuánto cuesta este curso?"
+      answer: "Este curso es gratuito y abierto (MOOC). No cuesta nada. No tienes que pagar nada ni hacer nada. No te pediremos ninguna tarjeta de crédito. Sólo tiene un coste para aquellos que deseen realizar un examen y obtener un certificado de realización del curso. Si esto no te interesa, no tienes que pagar nada. Si más adelante cambias de opinión y quieres pedir el certificado, puedes pagarlo y realizar el examen para obtenerlo. No hace falta que repitas el curso."
     - question: "¿Este curso va dirigido sólo a médicos?"
       answer: "Este curso va dirigido a profesionales sanitarios en general: Médicos, Enfermeros, Técnicos y Auxiliares. Las maniobras de Soporte Vital Básico se pueden realizar por cualquier persona, por lo que esta parte del curso es útil para cualquiera. Sin embargo, las maniobras de Soporte Vital Avanzado requieren de material y de un entorno medicalizado para su realización."
+    - question: "¿Qué validez tiene el certificado del curso?"
+      answer: "Hemos tramitado la acreditación de este curso con la Comisión de Formación Continuada de las Profesiones Sanitarias española. Eso quiere decir que, una vez aprobado el curso, dispondrá de validez en concursos y oposiciones en el territorio español."
+    - question: "¿Qué necesito para realizar el curso?"
+      answer: "Este curso no tiene parte práctica, por lo que sólo necesitarás tu pc o tablet para ver los videotutoriales"
 
 footer:
   copyright: "&copy; 2015 Medicarama"
