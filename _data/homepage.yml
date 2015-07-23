@@ -11,11 +11,12 @@ testimonial:
 
 
 about:
-  title: "Sobre el Curso"
-  first_paragraph: "<p> Una parada cardiorespiratoria es una situación tremendamente estresante, incluso para los profesionales. Cada segundo que pasa disminuyen las posibilidades de supervivencia de la víctima, y saber exactamente lo que hay que hacer es imprescindible para no perder un tiempo muy valioso.</p><p>En este curso MOOC aprenderás todas las maniobras y técnicas de <strong>Soporte Vital</strong>, tanto a nivel <strong>Básico</strong> como a nivel <strong>Avanzado</strong> (medicalizado). Todo ello según las guías y recomendaciones de la <strong>European Resucitation Council</strong> y la <strong>American Heart Association</strong>.</p><p>A lo largo de más de 20 videotutoriales aprenderás en detalle todos los aspectos más importantes de la reanimación cardiopulmonar de una forma visual y amena.</p><p>También podrás acceder a una gran comunidad de aprendizaje, donde podrás debatir con otros profesionales como tú y con los profesores del curso para solucionar todas tus dudas.</p>"
-  second_paragraph: "<p>Además podrás acceder a todo esto de forma gratuita. ¿Qué más se puede pedir?</p><p>Empieza a aprender ahora y actualiza tus conocimientos en las maniobras médicas de reanimación cardiopulmonar.</p>"
-  call_to_action: "Inscríbete en el Curso Gratis a cambio de Compartirlo"
+  title: "¿Qué tengo que hacer para participar?"
+  first_paragraph: "<p><strong>1.</strong> Inscríbete en el curso online de RCP, <strong>¡es gratis!</strong></p>  <p><strong>2.</strong> Pide a <strong>5 amigos</strong> que se inscriban en el curso online de RCP</p>  <p><strong>3.</strong> Rellena el formulario de esta página con los mails de tus 5 amigos</p>  <p><strong>4.</strong>Tienes que cursar, al menos, el 50% de las clases del curso de RCP</p>  <p><strong>5.</strong>Tus amigos tienen que cursar, al menos, el 10% de las clases del curso de RCP</p></ol><p>Cuando alcancemos los <strong>5.000</strong> inscritos en el curso realizaremos el sorteo. Si resultas ganador, te enviaremos los 6 pulsioxímetros. Uno para tí, y uno para cada uno de tus 5 amigos y compañeros</p>"
+  second_paragraph: ""
+  call_to_action: "Apúntate gratis en el sorteo"
   link_to_enrollment_page: "http://www.paywithatweet.com/pay?id=ff46b48b-890c-4514-9302-47a83cf82aee"
+
 
 learn:
   title: "In this course you will learn"
