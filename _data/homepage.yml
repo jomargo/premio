@@ -1,20 +1,20 @@
 hero:
   image: "https://farm8.staticflickr.com/7785/17389834920_9014686aa3_b.jpg"
-  heading: "Aprender a salvar vidas tiene premio. Inscríbete gratis y consigue este pulsioxímetro"
+  heading: "Aprender a salvar vidas tiene premio. Inscríbase gratis y consigua este pulsioxímetro"
   subtitle: "Curso MOOC de Reanimación Cardiopulmonar (RCP)"
   subimage: "https://farm1.staticflickr.com/478/18071300749_b60079ec21_b.jpg"
 
 testimonial:
-  quote: "<strong>Inscríbete</strong> en el curso de RCP para personal sanitario y consigue este pulsioxímetro de dedo. ¡Todo completamente <strong>gratis</strong>! Y es que aprender a salvar vidas merece un premio. Mejor dicho, merece <strong>6 premios</strong>, porque te vamos a dar <strong>6 pulsioxímetros</strong>, uno para tí, y 5 más para que los repartas a 5 amigos y compañeros"
-  person: "<strong>Consigue ahora estos 6 pulsioxímetros<strong>"
+  quote: "<strong>Inscríbase</strong> en el curso de RCP para personal sanitario y consiga este pulsioxímetro de dedo. ¡Todo completamente <strong>gratis</strong>! Y es que aprender a salvar vidas merece un premio. Mejor dicho, merece <strong>6 premios</strong>, porque te vamos a dar <strong>6 pulsioxímetros</strong>, uno para tí, y 5 más para que los repartas a 5 amigos y compañeros"
+  person: "<strong>Consiga ahora estos 6 pulsioxímetros<strong>"
   image: "images/pulsi.jpg"
 
 
 about:
   title: "¿Qué tengo que hacer para participar?"
-  first_paragraph: "<p><strong>1.</strong> Inscríbete en el curso online de RCP, <strong>¡es gratis!</strong></p>  <p><strong>2.</strong> Pide a <strong>5 amigos</strong> que se inscriban en el curso online de RCP</p>  <p><strong>3.</strong> Rellena el formulario de esta página con los mails de tus 5 amigos</p>  </ol><p>Cuando alcancemos los <strong>5.000</strong> inscritos en el curso realizaremos el sorteo. Si resultas ganador, te enviaremos los 6 pulsioxímetros. Uno para tí, y uno para cada uno de tus 5 amigos y compañeros</p>"
+  first_paragraph: "<p><strong>1.</strong> Inscríbase en el curso online de RCP, <strong>¡es gratis!</strong></p>  <p><strong>2.</strong> Pida a <strong>5 amigos</strong> que se inscriban en el curso online de RCP</p>  <p><strong>3.</strong> Rellene el formulario de esta página con los mails de sus 5 amigos</p>  </ol><p>Cuando alcancemos los <strong>5.000</strong> inscritos en el curso realizaremos el sorteo. Si resulta ganador, le enviaremos los 6 pulsioxímetros. Uno para Vd., y uno para cada uno de sus 5 amigos y compañeros</p>"
   second_paragraph: ""
-  call_to_action: "Apúntate gratis en el sorteo"
+  call_to_action: "Apúntese gratis en el sorteo"
   link_to_enrollment_page: "http://medicarama.com/courses/rcp"
 
 
@@ -47,11 +47,11 @@ learn:
       description: "Ensuring ridiculously happy students that will tell others about your course and how to create a future digital product pipeline"
 
 signup:
-  title: "Salvar vidas es importante. Empieza a aprender ahora"
+  title: "Formulario de Inscripción en el Sorteo"
   button: "Inscríbete Gratis en el Curso"
 
 signup_2:
-  title: "Salvar vidas es importante. Empieza a aprender ahora"
+  title: "Formulario de Inscripción en el Sorteo"
   button: "Inscríbete Gratis en el Curso"
 
 faq:
