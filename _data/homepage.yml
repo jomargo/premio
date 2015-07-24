@@ -55,18 +55,16 @@ signup_2:
   button: "Inscríbase Gratis en el Curso"
 
 faq:
-  title: "Preguntas Frecuentes"
+  title: "Correo de invitación a sus amigos"
   qa:
-    - question: "¿Dónde se realiza este curso? ¿Cuándo empieza?"
-      answer: "Este curso es completamente online, y ya está abierto, puedes empezar ahora mismo. No tiene fecha de finalización, por lo que podrás entrar al curso cuando quieras y realizarlo a tu propio ritmo."
-    - question: "¿Cuánto cuesta este curso?"
-      answer: "Este curso es gratuito y abierto (MOOC). No cuesta nada. No tienes que pagar nada ni hacer nada. No te pediremos ninguna tarjeta de crédito. Sólo tiene un coste para aquellos que deseen realizar un examen y obtener un certificado de realización del curso. Si esto no te interesa, no tienes que pagar nada. Si más adelante cambias de opinión y quieres pedir el certificado, puedes pagarlo y realizar el examen para obtenerlo. No hace falta que repitas el curso."
-    - question: "¿Este curso va dirigido sólo a médicos?"
-      answer: "Este curso va dirigido a profesionales sanitarios en general: Médicos, Enfermeros, Técnicos y Auxiliares. Las maniobras de Soporte Vital Básico se pueden realizar por cualquier persona, por lo que esta parte del curso es útil para cualquiera. Sin embargo, las maniobras de Soporte Vital Avanzado requieren de material y de un entorno medicalizado para su realización."
-    - question: "¿Qué validez tiene el certificado del curso?"
-      answer: "Hemos tramitado la acreditación de este curso con la Comisión de Formación Continuada de las Profesiones Sanitarias española. Eso quiere decir que, una vez aprobado el curso, dispondrá de validez en concursos y oposiciones en el territorio español."
-    - question: "¿Qué necesito para realizar el curso?"
-      answer: "Este curso no tiene parte práctica, por lo que sólo necesitarás tu pc o tablet para ver los videotutoriales"
+    - question: "Si no quiere escribir un correo a sus amigos, puede utilizar este que hemos escrito para Vd."
+      answer: "<a href="mailto: ?cc=info@medicarama.com&subject=Le invito a inscribirse gratis en este curso online de RCP">Hola,
+
+he visto un video-curso en Internet de Reanimación Cardiopulmonar para Personal Sanitario que seguro le interesa. Es un curso muy visual y entretenido, y además ¡es gratuito!
+
+Puede inscribirse aquí:  http://medicarama.com/courses/rcp
+
+Un saludo</a>
 
 footer:
   copyright: "&copy; 2015 Medicarama"
